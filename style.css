@@ -840,6 +840,10 @@ header .icons #menu-bars{
     section{
         padding: 2rem;
     }
+	
+    .review{
+        display: none;
+    }
 }
 
 @media (max-width:768px){
@@ -874,6 +878,10 @@ header .icons #menu-bars{
     .home .home-slider .slide .content h3{
         font-size: 5rem;
     }
+	
+    .review{
+        display: none;
+    }	
 }
 
 @media (max-width:450px){
