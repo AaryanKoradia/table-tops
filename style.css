@@ -893,4 +893,8 @@ header .icons #menu-bars{
     .order form .input_box .input{
         width: 100%;
     }
+	
+    .review{
+	display: none;
+     }
 }
